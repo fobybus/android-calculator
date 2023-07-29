@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">msf_calculator</string>
+    <string-array name="operations">
+        <item>+</item>
+        <item>-</item>
+        <item>x</item>
+        <item>/</item>
+    </string-array>
+    <string name="result">result</string>
+</resources>
